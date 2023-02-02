@@ -1,4 +1,4 @@
 RewriteEngine On
 RewriteBase /
-RewriteCond %{HTTP_HOST} !^domain.com$ [NC]
-RewriteRule ^(.*)$ http://domain.com/$1 [L,R=301]
+RewriteCond %{HTTP_HOST} ^www.trisnguyen.art [NC]
+RewriteRule ^(.*)$ https://trisnguyen.art/$1 [L,R=301]
