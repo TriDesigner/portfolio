@@ -1414,7 +1414,8 @@ a {
   display: block;
   border: none;
   outline: 0;
-  padding: 0px 0px 0px 50px;
+  margin-left: 10px;
+  padding: 0;
   cursor: pointer;
   text-decoration: none;
   -webkit-user-select: none;
