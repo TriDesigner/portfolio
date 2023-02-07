@@ -40,6 +40,7 @@
   top: 55%;
   bottom: auto;
   right: auto;
+  text-align:center;
   -webkit-transform: translateX(-50%) translateY(-50%);
      -moz-transform: translateX(-50%) translateY(-50%);
       -ms-transform: translateX(-50%) translateY(-50%);
