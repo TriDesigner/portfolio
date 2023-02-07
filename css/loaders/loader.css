@@ -25,7 +25,7 @@
 .loader__container {
   position: absolute;
   left: 50%;
-  top: 40%;
+  top: 45%;
   bottom: auto;
   right: auto;
   -webkit-transform: translateX(-50%) translateY(-50%);
@@ -37,7 +37,7 @@
 .loader__addtext {
   position: absolute;
   left: 50%;
-  top: 50%;
+  top: 57%;
   bottom: auto;
   right: auto;
   text-align:center;
