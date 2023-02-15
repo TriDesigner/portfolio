@@ -1,17 +1,4 @@
 // ------------------------------------------------
-// Project Name: Marvio - Coming Soon & Portfolio Template
-// Project Description: Marvio - awesome coming soon and portfolio template to kick-start your project
-// Tags: mix_design, coming soon, under construction, template, landing page, portfolio, one page, responsive, html5, css3, creative, clean, agency, personal page
-// Version: 1.0.2
-// Build Date: May 2022
-// Last Update: January 2023
-// This product is available exclusively on Themeforest
-// Author: mix_design
-// Author URI: https://themeforest.net/user/mix_design
-// File name: custom.js
-// ------------------------------------------------
-
-// ------------------------------------------------
 // Table of Contents
 // ------------------------------------------------
 //
@@ -186,7 +173,7 @@ $(window).on("load", function() {
     // --------------------------------------------- //
     $('.notify-form').ajaxChimp({
       callback: mailchimpCallback,
-      url: 'https://besaba.us10.list-manage.com/subscribe/post?u=e8d650c0df90e716c22ae4778&amp;id=54a7906900'
+      url: 'https://art.us21.list-manage.com/subscribe/post?u=786e90efa1e5f8e4af650f99f&amp;id=c21fcd9bba&amp;f_id=000efae1f0'
     });
   
     function mailchimpCallback(resp) {
