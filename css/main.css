@@ -50,6 +50,10 @@
   background-image: url("/img/projects/960x1440-slide-1.png");
 }
 
+.slide-image-4 {
+  background-image: url("/img/projects/960x1440-slide-1.png");
+}
+
 .project-main-image-1 {
   background-image: url("/img/projects/BYBS/1200x600-v1.png");
 }
@@ -59,6 +63,10 @@
 }
 
 .project-main-image-3 {
+  background-image: url("https://dummyimage.com/1200x600/424242/636363");
+}
+
+.project-main-image-4 {
   background-image: url("https://dummyimage.com/1200x600/424242/636363");
 }
 
