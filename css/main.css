@@ -231,6 +231,14 @@ img {
     display: none !important;
 }
 
+.txt-black{
+    color: #000 !important;
+}
+
+.txt-white{
+    color: #fff !important;
+}
+
 .fullheight {
   position: static;
   height: auto;
