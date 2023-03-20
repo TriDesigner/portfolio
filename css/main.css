@@ -54,20 +54,28 @@
   background-image: url("/img/projects/960x1440-slide-4.png");
 }
 
+.slide-image-5 {
+  background-image: url("/img/projects/960x1440-slide-5.png");
+}
+
 .project-main-image-1 {
-  background-image: url("/img/projects/Tech/1200x600-v3.png");
+  background-image: url("/img/projects/1200x600-v1.png");
 }
 
 .project-main-image-2 {
-  background-image: url("/img/projects/BYBS/1200x600-v1.png");
+  background-image: url("/img/projects/1200x600-v2.png");
 }
 
 .project-main-image-3 {
-  background-image: url("https://dummyimage.com/1200x600/424242/636363");
+  background-image: url("/img/projects/1200x600-v3.png");
 }
 
 .project-main-image-4 {
-  background-image: url("https://dummyimage.com/1200x600/424242/636363");
+  background-image: url("/img/projects/1200x600-v4.png");
+}
+
+.project-main-image-5 {
+  background-image: url("/img/projects/1200x600-v5.png");
 }
 
 .menu-image-1 {
