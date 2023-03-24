@@ -1188,7 +1188,6 @@ a {
   display: block;
   width: 4.4rem;
   height: 4.4rem;
-  left: 1.8rem;
   -moz-border-radius: 50%;
        border-radius: 50%;
   border: 2px solid #ffffff;
@@ -1440,7 +1439,6 @@ a {
   border: none;
   outline: 0;
   padding: 0;
-  left: 1.8rem;
   cursor: pointer;
   text-decoration: none;
   -webkit-user-select: none;
@@ -1469,7 +1467,7 @@ a {
 .popup-close span {
   display: block;
   position: absolute;
-ç
+  left: 50%;
   top: 50%;
   bottom: auto;
   right: auto;
@@ -1491,7 +1489,7 @@ a {
   content: "";
   display: block;
   position: absolute;
-  top: 50%;
+  top: 0;
   left: 0;
   width: 100%;
   height: 100%;
@@ -1670,7 +1668,6 @@ a {
   background-color: transparent;
   border: 2px solid #ffffff;
   color: #ffffff;
-  left: 1.8rem;
   -webkit-box-shadow: 0px 6px 38px -9px rgba(105, 29, 255, 0.34);
      -moz-box-shadow: 0px 6px 38px -9px rgba(105, 29, 255, 0.34);
           box-shadow: 0px 6px 38px -9px rgba(105, 29, 255, 0.34);
