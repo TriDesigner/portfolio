@@ -1439,6 +1439,7 @@ a {
   border: none;
   outline: 0;
   padding: 0;
+  left: 1.9rem;
   cursor: pointer;
   text-decoration: none;
   -webkit-user-select: none;
@@ -1467,7 +1468,7 @@ a {
 .popup-close span {
   display: block;
   position: absolute;
-  left: 50%;
+ç
   top: 50%;
   bottom: auto;
   right: auto;
