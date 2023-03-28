@@ -3181,7 +3181,6 @@ form .inputs-description {
   height: 100%;
   overflow-y: auto;
   overflow-x: hidden;
-  background-color: #0e0d26;
   z-index: 8;
 }
 @media only screen and (min-width: 1200px) {
