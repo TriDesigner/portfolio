@@ -43,55 +43,55 @@
 }
 
 .slide-image-2 {
-  background-image: url("https://tridesigner.github.io/Portfolio/img/projects/960x1440-slide-2.png");
+  background-image: url("../img/projects/960x1440-slide-2.png");
 }
 
 .slide-image-3 {
-  background-image: url("https://tridesigner.github.io/Portfolio/img/projects/960x1440-slide-3.png");
+  background-image: url("../img/projects/960x1440-slide-3.png");
 }
 
 .slide-image-4 {
-  background-image: url("https://tridesigner.github.io/Portfolio/img/projects/960x1440-slide-4.png");
+  background-image: url("../img/projects/960x1440-slide-4.png");
 }
 
 .slide-image-5 {
-  background-image: url("https://tridesigner.github.io/Portfolio/img/projects/960x1440-slide-5.png");
+  background-image: url("../img/projects/960x1440-slide-5.png");
 }
 
 .slide-image-6 {
-  background-image: url("https://tridesigner.github.io/Portfolio/img/projects/960x1440-slide-6.png");
+  background-image: url("../img/projects/960x1440-slide-6.png");
 }
 
 .project-main-image-1 {
-  background-image: url("https://tridesigner.github.io/Portfolio/img/projects/1200x600-v1.png");
+  background-image: url("../img/projects/1200x600-v1.png");
 }
 
 .project-main-image-2 {
-  background-image: url("https://tridesigner.github.io/Portfolio/img/projects/1200x600-v2.png");
+  background-image: url("../img/projects/1200x600-v2.png");
 }
 
 .project-main-image-3 {
-  background-image: url("https://tridesigner.github.io/Portfolio/img/projects/1200x600-v3.png");
+  background-image: url("../img/projects/1200x600-v3.png");
 }
 
 .project-main-image-4 {
-  background-image: url("https://tridesigner.github.io/Portfolio/img/projects/1200x600-v4.png");
+  background-image: url("../img/projects/1200x600-v4.png");
 }
 
 .project-main-image-5 {
-  background-image: url("https://tridesigner.github.io/Portfolio/img/projects/1200x600-v5.png");
+  background-image: url("../img/projects/1200x600-v5.png");
 }
 
 .project-main-image-6 {
-  background-image: url("https://tridesigner.github.io/Portfolio/img/projects/1200x600-v6.png");
+  background-image: url("../img/projects/1200x600-v6.png");
 }
 
 .menu-image-1 {
-  background-image: url("https://tridesigner.github.io/Portfolio/img/projects/960x1440-menu.png");
+  background-image: url("../img/projects/960x1440-menu.png");
 }
 
 .media-image-about {
-  background-image: url("https://tridesigner.github.io/Portfolio/img/projects/960x1440-me.png");
+  background-image: url("../img/projects/960x1440-me.png");
 }
 
 .media-image-portfolio {
@@ -99,7 +99,7 @@
 }
 
 .media-image-contact {
-  background-image: url("/img/projects/960x1440-contact.png");
+  background-image: url("../img/projects/960x1440-contact.png");
 }
 
 .showreel-image-1 {
